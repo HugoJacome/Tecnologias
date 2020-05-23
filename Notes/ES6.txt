@@ -1,0 +1,5 @@
+ECMAScript 6+
+
+2015 - release ES 6
+estándar en el cual se basa JavaScript. Y las versiones más modernas de ECMAScript
+Cada junio se libera una nueva especificacion desde el 2015

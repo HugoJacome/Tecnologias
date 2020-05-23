@@ -1,0 +1,64 @@
+Javascript Fundamentals
+Orientado a trabajar WEB
+POO - debilmente tipado - dinamico
+ 
+ html-maquetas
+ css- estilos
+ js-dinamica
+ 
+WebAssembly
+
+variables
+
+Funciones
+Cuando hablamos de funciones en JavaScript, tenemos dos tipos de funciones: 
+Funciones Declarativas (function declaration / function statement) y 
+Expresiones de función (function expression / funciones anónimas).
+
+SCOPE
+Global se accede desde todo lugar
+Local solo se accede donde fue declarado
+
+Hoisting cuando las variables y las funciones se procesan antes de que se ejecute cualquier codigo
+
+solo pasa con ES5 para abajo
+ES6  son var function const let
+
+var: variable
+function: funcion
+
+Coercion
+cambio de un tipo de valor a otro tipo de valor
+implicita - explicita
+
+
+Array
+push() - agregar
+pop() - borrar ultimo
+unshift() - agregar primero
+shift() - borrar primero
+indexof() - obtener el indice
+pop() - elimina el ultimo
+
+.filter() - selecciona
+map() - obtiene un array en base a la propiedad (select linq)
+
+
+
+For 
+For of
+While
+
+Objects
+
+var objeto = {
+	marca: "",
+	modelo: "",
+	annio: ""
+};
+
+
+
+
+
+
